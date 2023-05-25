@@ -74,9 +74,9 @@
               "Public Videos": {}
             }
           },
-          "Blue": {
+          "Shekhar": {
             "type": "folder",
-            "name": "Blue",
+            "name": "Shekhar",
             "info": {
               "spid": "%user%",
               "icon": "user"
