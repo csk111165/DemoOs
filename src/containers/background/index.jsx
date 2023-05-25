@@ -142,9 +142,7 @@ export const LockScreen = (props) => {
           w={200}
           ext
         />
-        <div className="mt-2 text-2xl font-medium text-gray-200">
-          Deepthi
-        </div>
+        <div className="mt-2 text-2xl font-medium text-gray-200">Deepthi</div>
         <div className="flex items-center mt-6 signInBtn" onClick={proceed}>
           Sign in
         </div>
