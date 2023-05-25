@@ -284,14 +284,14 @@ const apps = [
     icon: "github",
     type: "app",
     action: "EXTERNAL",
-    payload: "https://github.com/blueedgetechno/win11React",
+    payload: "https://google.com",
   },
   {
     name: "Unescape",
     icon: "unescape",
     type: "action",
     action: "EXTERNAL",
-    payload: "https://blueedge.me/unescape",
+    payload: "https://bing.com",
   },
   {
     name: "Discord",
