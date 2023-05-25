@@ -51,7 +51,7 @@ const apps = [
     icon: "buyme",
     type: "app",
     action: "EXTERNAL",
-    payload: "https://www.buymeacoffee.com/blueedgetechno",
+    payload: "https://www.bing.com",
   },
   {
     name: "Store",
